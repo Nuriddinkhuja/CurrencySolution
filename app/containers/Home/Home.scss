@@ -1,0 +1,92 @@
+.title {
+	color: #8e9395;
+}
+.main_title {
+	display: block;
+	padding-top: 10px;
+}
+
+.main_info {
+    padding: 15px 0;
+}
+
+.dotted_border {
+	border-right: 5px dotted #e8eff2;
+}
+
+.client_contacts_block {
+    border-left: 1px solid #e8eff2;
+}
+
+.client_contacts_block span.title {
+    margin-bottom: 15px;
+    color: #8e9395;
+}
+
+.client_contacts_block span {
+    display: block;
+}
+
+.fa-user-o {
+	margin-left: 5px;
+}
+
+
+.table.no_center_border tr td, 
+.table.no_center_border tr th {
+  border-width: 0;
+}
+
+.aligned_table > thead:first-child > tr:first-child > td {
+    padding-left: 0px;
+}
+
+.aligned_table > tbody > tr > td, {
+    padding-left: 0px;
+}
+
+.no_top_border {
+	border-top: none!important;
+}
+
+.dealer>ul>li {
+	padding-left: 8px;
+}
+
+.space>span {
+	margin-right: 15px;
+}
+
+.wellStyles {
+	padding-left: 65px;
+	padding-right: 65px;
+	border-radius: 3px;
+	text-transform: uppercase;
+};
+
+
+.btn_accept {
+	background-color: #41ce4b;
+	margin: 5px;
+	
+}
+
+.btn_transfer {
+	background-color: #00aaff;
+	margin-left: 10px;
+}
+
+.btn_decline{
+	background-color: #f65944;
+	
+}
+
+.panel_footer {
+	background-color: #e8eff2;
+	margin: 5px;
+}
+
+.panel-body {
+    padding: 10px;
+}
+
